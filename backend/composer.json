@@ -25,7 +25,13 @@
             "App\\": "app/",
             "Database\\Factories\\": "database/factories/",
             "Database\\Seeders\\": "database/seeders/"
-        }
+        },
+        "cbs comment" :  "CBS ADDED THIS, IT'S REQUIRED ",
+        "files":[ 
+            "app/Helpers/Helper.php",
+            "app/Helpers/EvaluateStandings.php",
+            "app/Helpers/GetScores.php"
+        ]
     },
     "autoload-dev": {
         "psr-4": {
